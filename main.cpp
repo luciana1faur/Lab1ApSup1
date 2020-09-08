@@ -9,3 +9,4 @@ int main() {
   cout << "Lkm: " << Lkm << endl;
 }
 
+//calcul transformare din mile in km!!
